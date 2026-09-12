@@ -27,11 +27,11 @@ body {
     height: 35px;
     display: inline-block;
     border: 5px solid rgba(200, 200, 200, 0.25);
-    border-left-color: rgba(3, 155, 174, 0.5);
-    border-top-color: rgba(3, 155, 174, 0.5);
+    border-left-color: rgba(174, 3, 31, 0.5);
+    border-top-color: rgba(174, 3, 117, 0.5);
     border-radius: 50%;
     animation-name: rotate;
-    animation: rotate 600ms infinite linear;
+    animation: rotate 12ms infinite linear;
 }
 
 @keyframes rotate { to{ transform: rotate(1turn)}}
